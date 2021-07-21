@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_margin="12dp"
-    android:background="#abcdef">
+    android:background="#60A163C6">
 
     <TextView
         android:layout_width="0dp"
@@ -16,7 +16,7 @@
         android:id="@+id/text"
         android:textSize="16sp"
         tools:text="Notes"
-        android:textColor="#212121"
+        android:textColor="#FFFFFF"
         tools:ignore="MissingConstraints"   />
 
     <ImageView
