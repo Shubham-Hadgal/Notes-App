@@ -15,5 +15,5 @@ Android Architecture Component
 
 # Screenshots of the App
 
-<img src="https://github.com/Shubham-Hadgal/News-App/blob/master/Screenshot_1625777140.png" width="300" height="600">    <img src="https://github.com/Shubham-Hadgal/News-App/blob/master/Screenshot_1625777148.png" width="300" height="600">    <img src="https://github.com/Shubham-Hadgal/News-App/blob/master/Screenshot_1625777159.png" width="300" height="600">
+<img src="https://github.com/Shubham-Hadgal/Notes-App/blob/main/App%20screenshots/Screenshot_1626934945.png" width="300" height="600">
 
