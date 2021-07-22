@@ -1,5 +1,3 @@
-# Notes-App
-
 # About Notes App
 
 An Android App that stores your shortnotes and longnotes in one place and displays accordingly
