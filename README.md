@@ -8,6 +8,10 @@ An Android App that stores your shortnotes and longnotes in one place and displa
 Android Architecture Component
 
 	Room Database
+	
+# Usage
+
+User can easily store all his long notes and short notes in one place
 
 
 
